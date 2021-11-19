@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift",
+        "state": {
+          "branch": null,
+          "revision": "7c17a6ccca06b5c107cfa4284e634562ddaf5951",
+          "version": "6.2.0"
+        }
+      },
+      {
+        "package": "ShimmerSwift",
+        "repositoryURL": "https://github.com/BeauNouvelle/ShimmerSwift",
+        "state": {
+          "branch": null,
+          "revision": "f1a4366f74329c313e9528bcbe5286eacc750c05",
+          "version": "2.2.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
